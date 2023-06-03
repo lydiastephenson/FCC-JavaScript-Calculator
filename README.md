@@ -2,6 +2,8 @@
 
 Objective: Build an app that is functionally similar to this: <https://javascript-calculator.freecodecamp.rocks/>.
 
+Final Project: <https://fcc-javascript-calculator--lydia-stephenson.repl.co/>
+
 Fulfill the below user stories and get all of the tests to pass. Use whichever libraries or APIs you need. Give it your own personal style.
 
 1. My calculator should contain a clickable element containing an = (equal sign) with a corresponding id="equals".
